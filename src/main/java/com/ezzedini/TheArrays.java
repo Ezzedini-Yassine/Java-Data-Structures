@@ -42,6 +42,6 @@ public class TheArrays {
         //third way to loop
         Arrays.stream(colors).forEach(System.out::println);
 
-         Arrays.
+
     }
 }
